@@ -11,7 +11,7 @@ Getting Started:
 Clone this repository.
 Install dependencies using npm install or yarn install.
 Start the development server with npm run dev or yarn dev.
-Open your browser and navigate to http://localhost:3000 to see your app.
+Open your browser and navigate to http://localhost:2020 to see your app.
 Customization:
 
 Add your own components, styles, and functionality to src directory.
